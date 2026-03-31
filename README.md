@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anfal Ahamed
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Undergraduate+%7C+Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Undergraduate+)
 
 ---
 
