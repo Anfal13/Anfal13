@@ -1,91 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anfal Ahamed | Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
-  <style>
-    body { font-family: 'Roboto', sans-serif; background: #f9f9f9; margin: 0; padding: 0; line-height: 1.6; }
-    header { text-align: center; padding: 60px 0; background: #1e90ff; color: #fff; }
-    header h1 { font-size: 2.5rem; margin-bottom: 10px; }
-    header p { font-size: 1.2rem; }
-    .container { width: 90%; max-width: 1000px; margin: auto; padding: 40px 0; }
-    section { margin: 60px 0; }
-    h2 { color: #1e90ff; margin-bottom: 20px; }
-    ul { list-style: none; padding: 0; }
-    ul li { margin-bottom: 10px; }
-    .card { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.3s; }
-    .card:hover { transform: translateY(-5px); }
-    .skills { display: flex; flex-wrap: wrap; gap: 15px; }
-    .skill { background: #1e90ff; color: #fff; padding: 10px 20px; border-radius: 30px; font-weight: bold; }
-    .contact a { margin-right: 15px; color: #1e90ff; font-size: 1.2rem; }
-    .contact a:hover { color: #0b61c1; }
-    footer { text-align: center; padding: 40px 0; background: #222; color: #fff; }
-  </style>
-</head>
-<body>
+# 👋 Hi, I'm Anfal Ahamed
 
-<header class="animate__animated animate__fadeInDown">
-  <h1>Anfal Ahamed</h1>
-  <p>Software Engineering Undergraduate | Full-Stack Developer</p>
-</header>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Undergraduate+%7C+Full-Stack+Developer)
 
-<div class="container">
+---
 
-  <section id="about" class="animate__animated animate__fadeInUp">
-    <h2>About Me</h2>
-    <p>I'm an ambitious software engineering student at London Metropolitan University with hands-on full-stack development experience. I enjoy building clean, efficient code and improving my skills.</p>
-  </section>
+## 💼 Experience
 
-  <section id="experience" class="animate__animated animate__fadeInUp">
-    <h2>Experience</h2>
-    <div class="card">
-      <h3>Software Engineer Intern | FikrFution Technology, Qatar</h3>
-      <p><strong>Sept 2024 - Aug 2024</strong></p>
-      <ul>
-        <li>Developed web apps using .NET (C#) and MVC</li>
-        <li>Enhanced front-end with jQuery, HTML, CSS</li>
-        <li>Managed PostgreSQL databases</li>
-      </ul>
-    </div>
-  </section>
+### Software Engineer Intern | FikrFution Technology, Qatar
+*September 2024 - August 2024*
 
-  <section id="skills" class="animate__animated animate__fadeInUp">
-    <h2>Skills</h2>
-    <div class="skills">
-      <span class="skill">C#</span>
-      <span class="skill">.NET MVC</span>
-      <span class="skill">jQuery</span>
-      <span class="skill">HTML & CSS</span>
-      <span class="skill">PostgreSQL</span>
-    </div>
-  </section>
+- Developed and maintained web applications using **.NET (C#)** and **MVC architecture**  
+- Enhanced front-end with **jQuery, HTML, CSS**  
+- Designed and managed databases with **PostgreSQL**  
+- Collaborated with senior developers to debug and optimize applications  
 
-  <section id="projects" class="animate__animated animate__fadeInUp">
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="https://github.com/Anfal13/StaySwift-Hotel-Reservation-System" target="_blank">StaySwift Hotel Reservation System</a></li>
-      <li><a href="https://github.com/Anfal13/StarEvents-Online-Event-Ticketing-System" target="_blank">StarEvents Online Event Ticketing System</a></li>
-    </ul>
-  </section>
+---
 
-  <section id="contact" class="animate__animated animate__fadeInUp">
-    <h2>Contact</h2>
-    <p class="contact">
-      <a href="mailto:anfalahamed13@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-      <a href="tel:+94754243312"><i class="fas fa-phone"></i> Phone</a>
-      <a href="https://www.linkedin.com/in/anfalahamed-b65811276/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    </p>
-  </section>
+## 🎓 Education
 
-</div>
+- **London Metropolitan University** — Software Engineering Degree  
+- **Esoft Metro Campus (2023)** — Higher National Diploma in Software Engineering  
+- **Zahira College Mawanella (2021)** — G.C.E Advanced Level  
+- **Zahira College Mawanella (2019)** — G.C.E Ordinary Level  
 
-<footer class="animate__animated animate__fadeInUp">
-  <p>© 2026 Anfal Ahamed. All rights reserved.</p>
-</footer>
+---
 
-</body>
-</html>
+## 🛠️ Technical Skills
+
+**Programming & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white) 
+![OOP](https://img.shields.io/badge/OOP-1E90FF?style=flat-square&logo=programming&logoColor=white)
+
+**Front-End**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+## 📊 Projects
+
+- [StaySwift Hotel Reservation System](https://github.com/Anfal13/StaySwift-Hotel-Reservation-System)  
+- [StarEvents Online Event Ticketing System](https://github.com/Anfal13/StarEvents-Online-Event-Ticketing-System)  
+
+---
+
+## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Fluent-1E90FF?style=flat-square) 
+![Sinhala](https://img.shields.io/badge/Sinhala-Fluent-1E90FF?style=flat-square) 
+![Tamil](https://img.shields.io/badge/Tamil-Fluent-1E90FF?style=flat-square)  
+
+---
+
+## 📍 Location
+
+Mawanella, Sri Lanka  
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anfalahamed13@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0078D4?style=flat-square&logo=phone&logoColor=white)](tel:+94754243312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anfalahamed-b65811276/)
+
+---
+
+## 📈 GitHub Stats
+
+![Anfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anfal13&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anfal13&layout=compact&theme=react)
