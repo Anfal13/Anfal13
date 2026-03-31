@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anfal Ahamed
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=1E90FF&width=500&lines=Software+Engineering+Undergraduate+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=garamond&size=28&pause=1000&color=1E90FF&width=500&lines=Software+Engineer+)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🎓 Education
 
-- **London Metropolitan University** — Software Engineering Degree  
+- **London Metropolitan University (2025)** — Bsc (Hons) in Software Engineering
 - **Esoft Metro Campus (2023)** — Higher National Diploma in Software Engineering  
 - **Zahira College Mawanella (2021)** — G.C.E Advanced Level  
 - **Zahira College Mawanella (2019)** — G.C.E Ordinary Level  
@@ -72,9 +72,3 @@ Mawanella, Sri Lanka
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anfalahamed-b65811276/)
 
 ---
-
-## 📈 GitHub Stats
-
-![Anfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anfal13&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anfal13&layout=compact&theme=react)
