@@ -67,9 +67,9 @@ I'm an ambitious and dedicated software engineering student at London Metropolit
 
 ## 📊 Featured Projects
 
-*Coming soon! Pin your best projects to showcase your full-stack capabilities.*
+https://github.com/Anfal13/StaySwift-Hotel-Reservation-System
+https://github.com/Anfal13/StarEvents-Online-Event-Ticketing-System
 
----
 
 ## 📍 Location
 
